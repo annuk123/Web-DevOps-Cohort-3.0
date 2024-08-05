@@ -13,3 +13,5 @@ let users = [
        age : 15
     }
 ];
+
+console.log(users.filter(ageGreater)); // [ { name: 'Annu', age: 21 } ]

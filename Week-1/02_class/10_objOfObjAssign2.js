@@ -29,12 +29,3 @@ let users = [
     }
 ];
 console.log(ageGender(users)); // [ {
-
-
-
-
-
-
-
-
-
