@@ -1,1 +1,1 @@
-# WebDev-DevOps-Cohort-3.0
+# WebDev+DevOps-Cohort-3.0
